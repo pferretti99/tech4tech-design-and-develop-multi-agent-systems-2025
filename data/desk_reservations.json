@@ -1,0 +1,2552 @@
+{
+  "2025-09-29": {
+    "weekday": "monday",
+    "reservations": {
+      "A0": {
+        "is_free": false,
+        "user": "sofia"
+      },
+      "A1": {
+        "is_free": false,
+        "user": "luca"
+      },
+      "A2": {
+        "is_free": false,
+        "user": "alice"
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": false,
+        "user": "marco"
+      },
+      "A5": {
+        "is_free": false,
+        "user": "giulia"
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-09-30": {
+    "weekday": "tuesday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": false,
+        "user": "marco"
+      },
+      "A2": {
+        "is_free": false,
+        "user": "sofia"
+      },
+      "A3": {
+        "is_free": false,
+        "user": "alice"
+      },
+      "A4": {
+        "is_free": false,
+        "user": "giulia"
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": false,
+        "user": "luca"
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-01": {
+    "weekday": "wednesday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": false,
+        "user": "alice"
+      },
+      "A4": {
+        "is_free": false,
+        "user": "marco"
+      },
+      "A5": {
+        "is_free": false,
+        "user": "giulia"
+      },
+      "A6": {
+        "is_free": false,
+        "user": "luca"
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": false,
+        "user": "sofia"
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-02": {
+    "weekday": "thursday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": false,
+        "user": "alice"
+      },
+      "A6": {
+        "is_free": false,
+        "user": "marco"
+      },
+      "A7": {
+        "is_free": false,
+        "user": "giulia"
+      },
+      "A8": {
+        "is_free": false,
+        "user": "luca"
+      },
+      "A9": {
+        "is_free": false,
+        "user": "sofia"
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-03": {
+    "weekday": "friday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": false,
+        "user": "alice"
+      },
+      "A8": {
+        "is_free": false,
+        "user": "sofia"
+      },
+      "A9": {
+        "is_free": false,
+        "user": "giulia"
+      },
+      "B0": {
+        "is_free": false,
+        "user": "luca"
+      },
+      "B1": {
+        "is_free": false,
+        "user": "marco"
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-04": {
+    "weekday": "saturday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-05": {
+    "weekday": "sunday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-06": {
+    "weekday": "monday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-07": {
+    "weekday": "tuesday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-08": {
+    "weekday": "wednesday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-09": {
+    "weekday": "thursday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-10": {
+    "weekday": "friday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-11": {
+    "weekday": "saturday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-12": {
+    "weekday": "sunday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-13": {
+    "weekday": "monday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-14": {
+    "weekday": "tuesday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-15": {
+    "weekday": "wednesday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-16": {
+    "weekday": "thursday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-17": {
+    "weekday": "friday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-18": {
+    "weekday": "saturday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-19": {
+    "weekday": "sunday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-20": {
+    "weekday": "monday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-21": {
+    "weekday": "tuesday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-22": {
+    "weekday": "wednesday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-23": {
+    "weekday": "thursday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-24": {
+    "weekday": "friday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-25": {
+    "weekday": "saturday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-26": {
+    "weekday": "sunday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-27": {
+    "weekday": "monday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  },
+  "2025-10-28": {
+    "weekday": "tuesday",
+    "reservations": {
+      "A0": {
+        "is_free": true,
+        "user": null
+      },
+      "A1": {
+        "is_free": true,
+        "user": null
+      },
+      "A2": {
+        "is_free": true,
+        "user": null
+      },
+      "A3": {
+        "is_free": true,
+        "user": null
+      },
+      "A4": {
+        "is_free": true,
+        "user": null
+      },
+      "A5": {
+        "is_free": true,
+        "user": null
+      },
+      "A6": {
+        "is_free": true,
+        "user": null
+      },
+      "A7": {
+        "is_free": true,
+        "user": null
+      },
+      "A8": {
+        "is_free": true,
+        "user": null
+      },
+      "A9": {
+        "is_free": true,
+        "user": null
+      },
+      "B0": {
+        "is_free": true,
+        "user": null
+      },
+      "B1": {
+        "is_free": true,
+        "user": null
+      },
+      "B2": {
+        "is_free": true,
+        "user": null
+      },
+      "B3": {
+        "is_free": true,
+        "user": null
+      },
+      "B4": {
+        "is_free": true,
+        "user": null
+      },
+      "B5": {
+        "is_free": true,
+        "user": null
+      },
+      "B6": {
+        "is_free": true,
+        "user": null
+      },
+      "B7": {
+        "is_free": true,
+        "user": null
+      },
+      "B8": {
+        "is_free": true,
+        "user": null
+      },
+      "B9": {
+        "is_free": true,
+        "user": null
+      }
+    }
+  }
+}

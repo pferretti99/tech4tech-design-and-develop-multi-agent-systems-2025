@@ -1,0 +1,1136 @@
+{
+  "alice": {
+    "2025-09-29": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Weekly kickoff",
+          "time": "09:30"
+        },
+        {
+          "title": "1:1 con Marco",
+          "time": "10:30"
+        },
+        {
+          "title": "Revisione roadmap",
+          "time": "15:00"
+        },
+        {
+          "title": "Sync marketing",
+          "time": "16:30"
+        }
+      ]
+    },
+    "2025-09-30": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Standup di prodotto",
+          "time": "09:30"
+        },
+        {
+          "title": "Analisi feedback utenti",
+          "time": "11:00"
+        },
+        {
+          "title": "Allineamento con Design",
+          "time": "14:30"
+        }
+      ]
+    },
+    "2025-10-01": {
+      "weekday": "wednesday",
+      "schedule": [
+        {
+          "title": "Standup di prodotto",
+          "time": "09:30"
+        },
+        {
+          "title": "Scrittura PRD",
+          "time": "11:00"
+        },
+        {
+          "title": "Grooming backlog",
+          "time": "15:30"
+        }
+      ]
+    },
+    "2025-10-02": {
+      "weekday": "thursday",
+      "schedule": [
+        {
+          "title": "Standup di prodotto",
+          "time": "09:30"
+        },
+        {
+          "title": "Demo interna",
+          "time": "11:30"
+        },
+        {
+          "title": "Pianificazione sprint",
+          "time": "16:00"
+        }
+      ]
+    },
+    "2025-10-03": {
+      "weekday": "friday",
+      "schedule": [
+        {
+          "title": "Standup di prodotto",
+          "time": "09:30"
+        },
+        {
+          "title": "OKR review",
+          "time": "11:00"
+        },
+        {
+          "title": "Retro sprint",
+          "time": "15:00"
+        }
+      ]
+    },
+    "2025-10-04": {
+      "weekday": "saturday",
+      "schedule": []
+    },
+    "2025-10-05": {
+      "weekday": "sunday",
+      "schedule": []
+    },
+    "2025-10-06": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Weekly kickoff",
+          "time": "09:15"
+        },
+        {
+          "title": "1:1 con Marco",
+          "time": "10:30"
+        },
+        {
+          "title": "Revisione roadmap",
+          "time": "15:15"
+        },
+        {
+          "title": "Sync marketing",
+          "time": "16:15"
+        }
+      ]
+    },
+    "2025-10-07": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Standup di prodotto",
+          "time": "09:15"
+        },
+        {
+          "title": "Analisi feedback utenti",
+          "time": "11:15"
+        },
+        {
+          "title": "Allineamento con Design",
+          "time": "14:30"
+        }
+      ]
+    },
+    "2025-10-08": {
+      "weekday": "wednesday",
+      "schedule": [
+        {
+          "title": "Standup di prodotto",
+          "time": "09:15"
+        },
+        {
+          "title": "Scrittura PRD",
+          "time": "11:00"
+        },
+        {
+          "title": "Grooming backlog",
+          "time": "15:15"
+        }
+      ]
+    },
+    "2025-10-09": {
+      "weekday": "thursday",
+      "schedule": [
+        {
+          "title": "Standup di prodotto",
+          "time": "09:15"
+        },
+        {
+          "title": "Demo interna",
+          "time": "11:45"
+        },
+        {
+          "title": "Pianificazione sprint",
+          "time": "16:15"
+        }
+      ]
+    },
+    "2025-10-10": {
+      "weekday": "friday",
+      "schedule": [
+        {
+          "title": "Standup di prodotto",
+          "time": "09:15"
+        },
+        {
+          "title": "OKR review",
+          "time": "11:15"
+        },
+        {
+          "title": "Retro sprint",
+          "time": "15:15"
+        }
+      ]
+    },
+    "2025-10-11": {
+      "weekday": "saturday",
+      "schedule": []
+    },
+    "2025-10-12": {
+      "weekday": "sunday",
+      "schedule": []
+    },
+    "2025-10-13": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Weekly kickoff",
+          "time": "09:15"
+        },
+        {
+          "title": "1:1 con Marco",
+          "time": "10:30"
+        },
+        {
+          "title": "Revisione roadmap",
+          "time": "15:15"
+        },
+        {
+          "title": "Sync marketing",
+          "time": "16:15"
+        }
+      ]
+    },
+    "2025-10-14": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Standup di prodotto",
+          "time": "09:15"
+        },
+        {
+          "title": "Analisi feedback utenti",
+          "time": "11:15"
+        },
+        {
+          "title": "Allineamento con Design",
+          "time": "14:30"
+        }
+      ]
+    }
+  },
+  "marco": {
+    "2025-09-29": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Weekly leadership",
+          "time": "09:00"
+        },
+        {
+          "title": "1:1 con Alice",
+          "time": "10:30"
+        },
+        {
+          "title": "Codebase health review",
+          "time": "14:00"
+        },
+        {
+          "title": "Hiring sync",
+          "time": "16:00"
+        }
+      ]
+    },
+    "2025-09-30": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Daily standup team",
+          "time": "09:30"
+        },
+        {
+          "title": "Allineamento architettura",
+          "time": "11:00"
+        },
+        {
+          "title": "Budget & risorse",
+          "time": "15:30"
+        }
+      ]
+    },
+    "2025-10-01": {
+      "weekday": "wednesday",
+      "schedule": [
+        {
+          "title": "Daily standup team",
+          "time": "09:30"
+        },
+        {
+          "title": "Revisione code PR",
+          "time": "11:30"
+        },
+        {
+          "title": "1:1 con Luca",
+          "time": "16:00"
+        }
+      ]
+    },
+    "2025-10-02": {
+      "weekday": "thursday",
+      "schedule": [
+        {
+          "title": "Daily standup team",
+          "time": "09:30"
+        },
+        {
+          "title": "Tech roadmap",
+          "time": "10:30"
+        },
+        {
+          "title": "Allineamento con QA",
+          "time": "15:00"
+        }
+      ]
+    },
+    "2025-10-03": {
+      "weekday": "friday",
+      "schedule": [
+        {
+          "title": "Daily standup team",
+          "time": "09:30"
+        },
+        {
+          "title": "All-hands engineering",
+          "time": "11:00"
+        },
+        {
+          "title": "Retro tecnica",
+          "time": "16:00"
+        }
+      ]
+    },
+    "2025-10-04": {
+      "weekday": "saturday",
+      "schedule": []
+    },
+    "2025-10-05": {
+      "weekday": "sunday",
+      "schedule": []
+    },
+    "2025-10-06": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Weekly leadership",
+          "time": "09:00"
+        },
+        {
+          "title": "1:1 con Alice",
+          "time": "10:30"
+        },
+        {
+          "title": "Codebase health review",
+          "time": "14:15"
+        },
+        {
+          "title": "Hiring sync",
+          "time": "16:15"
+        }
+      ]
+    },
+    "2025-10-07": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Daily standup team",
+          "time": "09:30"
+        },
+        {
+          "title": "Allineamento architettura",
+          "time": "11:15"
+        },
+        {
+          "title": "Budget & risorse",
+          "time": "15:30"
+        }
+      ]
+    },
+    "2025-10-08": {
+      "weekday": "wednesday",
+      "schedule": [
+        {
+          "title": "Daily standup team",
+          "time": "09:30"
+        },
+        {
+          "title": "Revisione code PR",
+          "time": "11:30"
+        },
+        {
+          "title": "1:1 con Luca",
+          "time": "15:45"
+        }
+      ]
+    },
+    "2025-10-09": {
+      "weekday": "thursday",
+      "schedule": [
+        {
+          "title": "Daily standup team",
+          "time": "09:30"
+        },
+        {
+          "title": "Tech roadmap",
+          "time": "10:30"
+        },
+        {
+          "title": "Allineamento con QA",
+          "time": "14:45"
+        }
+      ]
+    },
+    "2025-10-10": {
+      "weekday": "friday",
+      "schedule": [
+        {
+          "title": "Daily standup team",
+          "time": "09:30"
+        },
+        {
+          "title": "All-hands engineering",
+          "time": "11:00"
+        },
+        {
+          "title": "Retro tecnica",
+          "time": "16:15"
+        }
+      ]
+    },
+    "2025-10-11": {
+      "weekday": "saturday",
+      "schedule": []
+    },
+    "2025-10-12": {
+      "weekday": "sunday",
+      "schedule": []
+    },
+    "2025-10-13": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Weekly leadership",
+          "time": "09:00"
+        },
+        {
+          "title": "1:1 con Alice",
+          "time": "10:30"
+        },
+        {
+          "title": "Codebase health review",
+          "time": "14:15"
+        },
+        {
+          "title": "Hiring sync",
+          "time": "16:15"
+        }
+      ]
+    },
+    "2025-10-14": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Daily standup team",
+          "time": "09:30"
+        },
+        {
+          "title": "Allineamento architettura",
+          "time": "11:15"
+        },
+        {
+          "title": "Budget & risorse",
+          "time": "15:30"
+        }
+      ]
+    }
+  },
+  "sofia": {
+    "2025-09-29": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Design crit settimanale",
+          "time": "10:00"
+        },
+        {
+          "title": "Brief con Product",
+          "time": "11:30"
+        },
+        {
+          "title": "Wireframe nuove feature",
+          "time": "15:00"
+        }
+      ]
+    },
+    "2025-09-30": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Daily design",
+          "time": "09:45"
+        },
+        {
+          "title": "User research interviste",
+          "time": "11:00"
+        },
+        {
+          "title": "Prototipo Figma",
+          "time": "16:00"
+        }
+      ]
+    },
+    "2025-10-01": {
+      "weekday": "wednesday",
+      "schedule": [
+        {
+          "title": "Daily design",
+          "time": "09:45"
+        },
+        {
+          "title": "Design system update",
+          "time": "11:30"
+        },
+        {
+          "title": "Test di usabilità",
+          "time": "15:30"
+        }
+      ]
+    },
+    "2025-10-02": {
+      "weekday": "thursday",
+      "schedule": [
+        {
+          "title": "Daily design",
+          "time": "09:45"
+        },
+        {
+          "title": "Workshop con Dev",
+          "time": "10:30"
+        },
+        {
+          "title": "Handoff a sviluppo",
+          "time": "16:30"
+        }
+      ]
+    },
+    "2025-10-03": {
+      "weekday": "friday",
+      "schedule": [
+        {
+          "title": "Daily design",
+          "time": "09:45"
+        },
+        {
+          "title": "Revisione UI con Alice",
+          "time": "11:00"
+        },
+        {
+          "title": "QA visual",
+          "time": "15:00"
+        }
+      ]
+    },
+    "2025-10-04": {
+      "weekday": "saturday",
+      "schedule": []
+    },
+    "2025-10-05": {
+      "weekday": "sunday",
+      "schedule": []
+    },
+    "2025-10-06": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Design crit settimanale",
+          "time": "10:15"
+        },
+        {
+          "title": "Brief con Product",
+          "time": "11:15"
+        },
+        {
+          "title": "Wireframe nuove feature",
+          "time": "15:15"
+        }
+      ]
+    },
+    "2025-10-07": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Daily design",
+          "time": "09:30"
+        },
+        {
+          "title": "User research interviste",
+          "time": "11:15"
+        },
+        {
+          "title": "Prototipo Figma",
+          "time": "16:15"
+        }
+      ]
+    },
+    "2025-10-08": {
+      "weekday": "wednesday",
+      "schedule": [
+        {
+          "title": "Daily design",
+          "time": "09:30"
+        },
+        {
+          "title": "Design system update",
+          "time": "11:30"
+        },
+        {
+          "title": "Test di usabilità",
+          "time": "15:15"
+        }
+      ]
+    },
+    "2025-10-09": {
+      "weekday": "thursday",
+      "schedule": [
+        {
+          "title": "Daily design",
+          "time": "09:30"
+        },
+        {
+          "title": "Workshop con Dev",
+          "time": "10:30"
+        },
+        {
+          "title": "Handoff a sviluppo",
+          "time": "16:15"
+        }
+      ]
+    },
+    "2025-10-10": {
+      "weekday": "friday",
+      "schedule": [
+        {
+          "title": "Daily design",
+          "time": "09:30"
+        },
+        {
+          "title": "Revisione UI con Alice",
+          "time": "11:15"
+        },
+        {
+          "title": "QA visual",
+          "time": "15:15"
+        }
+      ]
+    },
+    "2025-10-11": {
+      "weekday": "saturday",
+      "schedule": []
+    },
+    "2025-10-12": {
+      "weekday": "sunday",
+      "schedule": []
+    },
+    "2025-10-13": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Design crit settimanale",
+          "time": "10:15"
+        },
+        {
+          "title": "Brief con Product",
+          "time": "11:15"
+        },
+        {
+          "title": "Wireframe nuove feature",
+          "time": "15:15"
+        }
+      ]
+    },
+    "2025-10-14": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Daily design",
+          "time": "09:30"
+        },
+        {
+          "title": "User research interviste",
+          "time": "11:15"
+        },
+        {
+          "title": "Prototipo Figma",
+          "time": "16:15"
+        }
+      ]
+    }
+  },
+  "luca": {
+    "2025-09-29": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Report KPI settimanale",
+          "time": "09:00"
+        },
+        {
+          "title": "Analisi funnel",
+          "time": "14:00"
+        },
+        {
+          "title": "1:1 con Marco",
+          "time": "16:00"
+        }
+      ]
+    },
+    "2025-09-30": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Sync dati con Prodotto",
+          "time": "10:00"
+        },
+        {
+          "title": "Pulizia dataset",
+          "time": "11:30"
+        },
+        {
+          "title": "Dashboard aggiornamento",
+          "time": "15:00"
+        }
+      ]
+    },
+    "2025-10-01": {
+      "weekday": "wednesday",
+      "schedule": [
+        {
+          "title": "Standup analytics",
+          "time": "09:30"
+        },
+        {
+          "title": "Modello previsivo",
+          "time": "11:00"
+        },
+        {
+          "title": "Revisione A/B test",
+          "time": "16:00"
+        }
+      ]
+    },
+    "2025-10-02": {
+      "weekday": "thursday",
+      "schedule": [
+        {
+          "title": "Standup analytics",
+          "time": "09:30"
+        },
+        {
+          "title": "Allineamento tracking",
+          "time": "10:30"
+        },
+        {
+          "title": "Query performance review",
+          "time": "15:30"
+        }
+      ]
+    },
+    "2025-10-03": {
+      "weekday": "friday",
+      "schedule": [
+        {
+          "title": "Standup analytics",
+          "time": "09:30"
+        },
+        {
+          "title": "Business review",
+          "time": "11:00"
+        },
+        {
+          "title": "Condivisione insight",
+          "time": "14:30"
+        }
+      ]
+    },
+    "2025-10-04": {
+      "weekday": "saturday",
+      "schedule": []
+    },
+    "2025-10-05": {
+      "weekday": "sunday",
+      "schedule": []
+    },
+    "2025-10-06": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Report KPI settimanale",
+          "time": "09:00"
+        },
+        {
+          "title": "Analisi funnel",
+          "time": "14:15"
+        },
+        {
+          "title": "1:1 con Marco",
+          "time": "15:45"
+        }
+      ]
+    },
+    "2025-10-07": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Sync dati con Prodotto",
+          "time": "10:15"
+        },
+        {
+          "title": "Pulizia dataset",
+          "time": "11:30"
+        },
+        {
+          "title": "Dashboard aggiornamento",
+          "time": "15:00"
+        }
+      ]
+    },
+    "2025-10-08": {
+      "weekday": "wednesday",
+      "schedule": [
+        {
+          "title": "Standup analytics",
+          "time": "09:15"
+        },
+        {
+          "title": "Modello previsivo",
+          "time": "11:00"
+        },
+        {
+          "title": "Revisione A/B test",
+          "time": "15:45"
+        }
+      ]
+    },
+    "2025-10-09": {
+      "weekday": "thursday",
+      "schedule": [
+        {
+          "title": "Standup analytics",
+          "time": "09:15"
+        },
+        {
+          "title": "Allineamento tracking",
+          "time": "10:30"
+        },
+        {
+          "title": "Query performance review",
+          "time": "15:15"
+        }
+      ]
+    },
+    "2025-10-10": {
+      "weekday": "friday",
+      "schedule": [
+        {
+          "title": "Standup analytics",
+          "time": "09:15"
+        },
+        {
+          "title": "Business review",
+          "time": "11:15"
+        },
+        {
+          "title": "Condivisione insight",
+          "time": "14:30"
+        }
+      ]
+    },
+    "2025-10-11": {
+      "weekday": "saturday",
+      "schedule": []
+    },
+    "2025-10-12": {
+      "weekday": "sunday",
+      "schedule": []
+    },
+    "2025-10-13": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Report KPI settimanale",
+          "time": "09:00"
+        },
+        {
+          "title": "Analisi funnel",
+          "time": "14:15"
+        },
+        {
+          "title": "1:1 con Marco",
+          "time": "15:45"
+        }
+      ]
+    },
+    "2025-10-14": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Sync dati con Prodotto",
+          "time": "10:15"
+        },
+        {
+          "title": "Pulizia dataset",
+          "time": "11:30"
+        },
+        {
+          "title": "Dashboard aggiornamento",
+          "time": "15:00"
+        }
+      ]
+    }
+  },
+  "giulia": {
+    "2025-09-29": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Pipeline review",
+          "time": "09:00"
+        },
+        {
+          "title": "Call con cliente ACME",
+          "time": "11:00"
+        },
+        {
+          "title": "Strategia upsell",
+          "time": "16:00"
+        }
+      ]
+    },
+    "2025-09-30": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Prospecting",
+          "time": "09:30"
+        },
+        {
+          "title": "Demo prodotto",
+          "time": "11:30"
+        },
+        {
+          "title": "Follow-up email",
+          "time": "16:30"
+        }
+      ]
+    },
+    "2025-10-01": {
+      "weekday": "wednesday",
+      "schedule": [
+        {
+          "title": "Prospecting",
+          "time": "09:30"
+        },
+        {
+          "title": "Call con marketing",
+          "time": "11:00"
+        },
+        {
+          "title": "Negoziazione offerta",
+          "time": "15:00"
+        }
+      ]
+    },
+    "2025-10-02": {
+      "weekday": "thursday",
+      "schedule": [
+        {
+          "title": "Prospecting",
+          "time": "09:30"
+        },
+        {
+          "title": "Demo con lead",
+          "time": "10:30"
+        },
+        {
+          "title": "Allineamento post-vendita",
+          "time": "16:00"
+        }
+      ]
+    },
+    "2025-10-03": {
+      "weekday": "friday",
+      "schedule": [
+        {
+          "title": "Prospecting",
+          "time": "09:30"
+        },
+        {
+          "title": "QBR con cliente Beta",
+          "time": "11:00"
+        },
+        {
+          "title": "Report settimanale vendite",
+          "time": "15:30"
+        }
+      ]
+    },
+    "2025-10-04": {
+      "weekday": "saturday",
+      "schedule": []
+    },
+    "2025-10-05": {
+      "weekday": "sunday",
+      "schedule": []
+    },
+    "2025-10-06": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Pipeline review",
+          "time": "09:00"
+        },
+        {
+          "title": "Call con cliente ACME",
+          "time": "11:15"
+        },
+        {
+          "title": "Strategia upsell",
+          "time": "16:15"
+        }
+      ]
+    },
+    "2025-10-07": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Prospecting",
+          "time": "09:30"
+        },
+        {
+          "title": "Demo prodotto",
+          "time": "11:30"
+        },
+        {
+          "title": "Follow-up email",
+          "time": "16:15"
+        }
+      ]
+    },
+    "2025-10-08": {
+      "weekday": "wednesday",
+      "schedule": [
+        {
+          "title": "Prospecting",
+          "time": "09:15"
+        },
+        {
+          "title": "Call con marketing",
+          "time": "11:00"
+        },
+        {
+          "title": "Negoziazione offerta",
+          "time": "15:15"
+        }
+      ]
+    },
+    "2025-10-09": {
+      "weekday": "thursday",
+      "schedule": [
+        {
+          "title": "Prospecting",
+          "time": "09:15"
+        },
+        {
+          "title": "Demo con lead",
+          "time": "10:30"
+        },
+        {
+          "title": "Allineamento post-vendita",
+          "time": "15:45"
+        }
+      ]
+    },
+    "2025-10-10": {
+      "weekday": "friday",
+      "schedule": [
+        {
+          "title": "Prospecting",
+          "time": "09:15"
+        },
+        {
+          "title": "QBR con cliente Beta",
+          "time": "11:15"
+        },
+        {
+          "title": "Report settimanale vendite",
+          "time": "15:15"
+        }
+      ]
+    },
+    "2025-10-11": {
+      "weekday": "saturday",
+      "schedule": []
+    },
+    "2025-10-12": {
+      "weekday": "sunday",
+      "schedule": []
+    },
+    "2025-10-13": {
+      "weekday": "monday",
+      "schedule": [
+        {
+          "title": "Pipeline review",
+          "time": "09:00"
+        },
+        {
+          "title": "Call con cliente ACME",
+          "time": "11:15"
+        },
+        {
+          "title": "Strategia upsell",
+          "time": "16:15"
+        }
+      ]
+    },
+    "2025-10-14": {
+      "weekday": "tuesday",
+      "schedule": [
+        {
+          "title": "Prospecting",
+          "time": "09:30"
+        },
+        {
+          "title": "Demo prodotto",
+          "time": "11:30"
+        },
+        {
+          "title": "Follow-up email",
+          "time": "16:15"
+        }
+      ]
+    }
+  }
+}

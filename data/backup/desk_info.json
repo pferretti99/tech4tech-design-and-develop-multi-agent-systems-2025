@@ -1,0 +1,122 @@
+{
+  "A0": {
+    "name": "A0",
+    "location": "Open Space - Piano 0",
+    "description": "Scrivania vicino alle finestre lato est",
+    "allowed_users": ["alice", "marco", "sofia"]
+  },
+  "A1": {
+    "name": "A1",
+    "location": "Open Space - Piano 0",
+    "description": "Postazione con luce naturale",
+    "allowed_users": ["marco", "luca"]
+  },
+  "A2": {
+    "name": "A2",
+    "location": "Open Space - Piano 0",
+    "description": "Scrivania centrale area team",
+    "allowed_users": ["sofia", "giulia", "alice"]
+  },
+  "A3": {
+    "name": "A3",
+    "location": "Open Space - Piano 0",
+    "description": "Postazione vicino alla parete attrezzata",
+    "allowed_users": ["alice", "luca"]
+  },
+  "A4": {
+    "name": "A4",
+    "location": "Open Space - Piano 0",
+    "description": "Scrivania con passaggio moderato",
+    "allowed_users": ["marco", "giulia", "sofia"]
+  },
+  "A5": {
+    "name": "A5",
+    "location": "Open Space - Piano 0",
+    "description": "Postazione lato nord più silenzioso",
+    "allowed_users": ["giulia", "alice"]
+  },
+  "A6": {
+    "name": "A6",
+    "location": "Zona Creativa - Piano 0",
+    "description": "Scrivania adatta a lavoro di gruppo",
+    "allowed_users": ["luca", "marco", "sofia"]
+  },
+  "A7": {
+    "name": "A7",
+    "location": "Zona Creativa - Piano 0",
+    "description": "Scrivania adatta a lavoro di gruppo",
+    "allowed_users": ["alice", "giulia", "marco"]
+  },
+  "A8": {
+    "name": "A8",
+    "location": "Zona Creativa - Piano 0",
+    "description": "Scrivania adatta a lavoro di gruppo",
+    "allowed_users": ["sofia", "luca"]
+  },
+  "A9": {
+    "name": "A9",
+    "location": "Zona Creativa - Piano 0",
+    "description": "Scrivania adatta a lavoro di gruppo",
+    "allowed_users": ["giulia", "sofia", "alice"]
+  },
+  "B0": {
+    "name": "B0",
+    "location": "Area Silenzio - Piano 1",
+    "description": "Scrivania per lavoro di concentrazione",
+    "allowed_users": ["luca", "sofia"]
+  },
+  "B1": {
+    "name": "B1",
+    "location": "Area Silenzio - Piano 1",
+    "description": "Postazione con sedia ergonomica",
+    "allowed_users": ["alice", "marco", "giulia"]
+  },
+  "B2": {
+    "name": "B2",
+    "location": "Area Silenzio - Piano 1",
+    "description": "Scrivania vicino al pannello fonoassorbente",
+    "allowed_users": ["marco", "luca"]
+  },
+  "B3": {
+    "name": "B3",
+    "location": "Area Silenzio - Piano 1",
+    "description": "Postazione singola isolata",
+    "allowed_users": ["sofia", "giulia"]
+  },
+  "B4": {
+    "name": "B4",
+    "location": "Area Studio - Piano 2",
+    "description": "Scrivania luce indiretta",
+    "allowed_users": ["alice", "luca", "marco"]
+  },
+  "B5": {
+    "name": "B5",
+    "location": "Area Studio - Piano 2",
+    "description": "Postazione in angolo silenzioso",
+    "allowed_users": ["giulia", "alice"]
+  },
+  "B6": {
+    "name": "B6",
+    "location": "Area Studio - Piano 2",
+    "description": "Scrivania con divisori laterali",
+    "allowed_users": ["marco", "sofia", "luca"]
+  },
+  "B7": {
+    "name": "B7",
+    "location": "Area Studio - Piano 2",
+    "description": "Postazione con lampada dedicata",
+    "allowed_users": ["alice", "sofia"]
+  },
+  "B8": {
+    "name": "B8",
+    "location": "Area Studio - Piano 2",
+    "description": "Scrivania per call riservate",
+    "allowed_users": ["giulia", "marco"]
+  },
+  "B9": {
+    "name": "B9",
+    "location": "Area Studio - Piano 2",
+    "description": "Postazione lontana dagli accessi",
+    "allowed_users": ["luca", "giulia", "alice"]
+  }
+}
