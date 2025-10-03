@@ -174,15 +174,15 @@
       "schedule": [
         {
           "title": "Standup di prodotto",
-          "time": "09:15"
+          "time": "09:30"
         },
         {
           "title": "OKR review",
-          "time": "11:15"
+          "time": "11:00"
         },
         {
           "title": "Retro sprint",
-          "time": "15:15"
+          "time": "15:00"
         }
       ]
     },

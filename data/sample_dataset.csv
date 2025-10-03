@@ -1,0 +1,11 @@
+question,expected_tools,answer
+"How much does the red shirt cost?","get_product_info",20
+"How much does the red shirt cost with discount?","get_product_info,calculator",18
+"What's the price of blue jeans?","get_product_info",40
+"I want 2 red shirts. What's the total?","get_product_info,calculator",40
+"Show me the black shoes price with discount","get_product_info,calculator",25.5
+"What's the total for 1 gray hat and 1 yellow belt?","get_product_info,calculator",18
+"Price of white socks?","get_product_info",5
+"How much for 3 pairs of white socks with discount?","get_product_info,calculator",14.25
+"What's the cost of a brown jacket?","get_product_info",50
+"I need 1 pink sweater and 1 green scarf with discount. Total?","get_product_info,calculator",34.45
