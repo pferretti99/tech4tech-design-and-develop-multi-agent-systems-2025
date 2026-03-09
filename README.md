@@ -85,10 +85,64 @@ If you need help or have any questions, feel free to reach out to us. We are her
 
 Good luck and have fun! 🎉
 
-## 🔗 Some useful links
+## � Setup Langfuse (Self-Hosted)
+
+[Langfuse](https://langfuse.com) is an open-source LLM observability platform. You can run it locally via Docker Compose.
+
+### Requirements
+
+- [Git](https://git-scm.com/downloads)
+- [Docker](https://www.docker.com/) & Docker Compose → use [Docker Desktop](https://www.docker.com/products/docker-desktop/) on Mac or Windows
+
+### 1. Clone the Langfuse repository
+
+```bash
+git clone https://github.com/langfuse/langfuse.git
+cd langfuse
+```
+
+### 2. Start the application
+
+Update the secrets in `docker-compose.yml`, then run:
+
+```bash
+docker compose up
+```
+
+Watch the containers start and the logs flow in. After about 2–3 minutes, the `langfuse-web-1` container should log `Ready`.
+
+### 3. Open the Langfuse UI
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### 4. Create an organisation and a project
+
+1. Sign up and create an **organisation**
+2. Create a **project** inside the organisation
+
+### 5. Generate API keys
+
+Inside the project, go to **Tracing → Create new API key** and copy the generated keys.
+
+### 6. Configure your `.env` file
+
+Add the following variables to your `.env` file (see `.env.example`):
+
+```env
+LANGFUSE_SECRET_KEY="sk-..."
+LANGFUSE_PUBLIC_KEY="pk-..."
+LANGFUSE_BASE_URL="http://localhost:3000"
+```
+
+---
+
+## �🔗 Some useful links
 
 - [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks#_create-or-open-a-jupyter-notebook)
-- [More on LLM agents](https://www.promptingguide.ai/it/research/llm-agents)
-- [More on agents reasoning](https://www.promptingguide.ai/it/techniques/react)
-- [More on LangGraph](https://www.langchain.com/langgraph)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/it)
+- [More on LangChain](https://docs.langchain.com/oss/python/langchain/overview)
+- [More on LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)
+- [Build your first agent with LangChain](https://docs.langchain.com/oss/python/langchain/quickstart)
+- [Build an advanced agent with LangGraph](https://docs.langchain.com/oss/python/langgraph/quickstart)
+- [LangFuse: LangChain Tracing & LangGraph Integration](https://langfuse.com/integrations/frameworks/langchain)
 - [ReAct Paper](https://arxiv.org/abs/2210.03629)
